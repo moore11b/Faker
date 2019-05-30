@@ -1,0 +1,1 @@
+Black,White,Red,Lime,Blue,Yellow,Aqua,Magenta,Silver,Gray,Maroon,Olive,Green,Purple,Teal,Navy
